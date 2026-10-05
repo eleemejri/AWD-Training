@@ -8,8 +8,7 @@ It exposes one endpoint for now; the notification logic is a TODO for students (
 cd chemin\vers\notification
 
 # 1. Créer et activer l'environnement virtuel (une seule fois)
-python -m venv venv
-.\venv\Scripts\Activate.ps1
+python -m venv ven.\venv\Scripts\Activate.ps1
 
 # 2. Installer les dépendances
 python -m pip install -r requirements.txt
